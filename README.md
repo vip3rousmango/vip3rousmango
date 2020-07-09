@@ -2,10 +2,10 @@
 
 ### 🔭 I’m currently working on ...
 
-**Ollie-UI** - a JavaScript starter-kit for rapidly scaffolding web pages and stuff.
-**Allegretto** - A micro CSS library to help with UI wireframing/prototyping.
-**AresDOM** - A micro replacement for jQuery to do some light DOM manipulation.
-**Faye** - My first Ghost Theme built upon the default, Casper.
+- **Ollie-UI** - a JavaScript starter-kit for rapidly scaffolding web pages and stuff.
+- **Allegretto** - A micro CSS library to help with UI wireframing/prototyping.
+- **AresDOM** - A micro replacement for jQuery to do some light DOM manipulation.
+- **Faye** - My first Ghost Theme built upon the default, Casper.
 
 ### 🌱 I’m currently learning ...
 
