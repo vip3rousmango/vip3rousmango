@@ -1,13 +1,11 @@
 ## Hi there 👋
-I'm Al. I'm a self-taught web developer with a nack for learning new things and breaking stuff. I enjoy being creative but find expressing it artistically, difficult. But, once I found code, I was able to express that creativity that no paint-brush or paint-mouse ever could do for me and I never looked back since.
+I'm Al. I'm a self-taught web developer with a nack for learning new things and breaking stuff. I enjoy being creative but find expressing it artistically, difficult. But, once I found coding, I was able to express that creativity that no paint-brush or paint-mouse ever could do for me and I never looked back since.
 
 :notes: Started with the LAMP-stack, now I'm all about that JAM-stack. :notes:
 
 ### 🔭 I’m currently working on ...
 
 - **Ollie-UI** - a JavaScript starter-kit for rapidly scaffolding web pages and stuff.
-- **Allegretto** - A micro CSS library to help with UI wireframing/prototyping.
-- **AresDOM** - A micro replacement for jQuery to do some light DOM manipulation.
 - **Faye** - My first Ghost Theme built upon the default, Casper.
 
 ### 🌱 I’m currently learning ...
@@ -15,6 +13,7 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 - Azure Cloud 
 - Vue
 - SailsJS
+- Nodejs CLI
 
 ### 👯 I’m looking to collaborate on ...
 
