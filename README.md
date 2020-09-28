@@ -8,6 +8,8 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 - **Ollie-UI** - a JavaScript starter-kit for rapidly scaffolding web pages and stuff.
 - **Faye** - My first Ghost Theme built upon the default, Casper.
 
+![Al's github stats](https://github-readme-stats.vercel.app/api?username=vip3rousmango&hide=["issues"]&show_icons=true)
+
 ### 🌱 I’m currently learning ...
 
 - Azure Cloud 
