@@ -1,11 +1,12 @@
 ## Hi there 👋
 I'm Al. I'm a self-taught web developer with a nack for learning new things and breaking stuff. I enjoy being creative but find expressing it artistically, difficult. But, once I found coding, I was able to express that creativity that no paint-brush or paint-mouse ever quite could do for me and I've never looked back since.
 
-```sh
-npx vip3rousmango
-```
-
 :notes: Started with the LAMP-stack, now I'm all about that JAM-stack. :notes:
+
+// Get this in your terminal...
+```bash
+$ npx vip3rousmango
+```
 
 ### 🔭 I’m currently working on ...
 
