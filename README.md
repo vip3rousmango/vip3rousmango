@@ -16,9 +16,10 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 ### 🌱 I’m currently learning ...
 
 - Azure Cloud 
-- Vue
-- SailsJS
-- Nodejs CLI
+- Svelte
+- Srapi
+- MongoDB
+- Node.js CLI
 
 ### 👯 I’m looking to collaborate on ...
 
@@ -44,7 +45,7 @@ The fastest way is via Facebook Messenger through my website, or Twitter DMs.
 
 ### 😄 Pronouns: ...
 
-- He/Him
+- He/Him/His
 
 ### ⚡ Fun fact: ...
 
