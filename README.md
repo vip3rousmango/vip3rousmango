@@ -17,7 +17,7 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 
 - Azure Cloud 
 - Svelte
-- Srapi
+- Strapi
 - MongoDB
 - Node.js CLI
 
