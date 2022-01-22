@@ -15,10 +15,10 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 
 ### 🌱 I’m currently learning ...
 
-- Azure Cloud 
-- Svelte
+- Azure 
+- Web Components / Lit
+- CSS /w Open-Props
 - Strapi
-- MongoDB
 - Node.js CLI
 
 ### 👯 I’m looking to collaborate on ...
@@ -37,7 +37,8 @@ Any of my open-source projects! Ollie-Ui, AresDOM and Allegretto all could benef
 - How to exit Vim
 - Best way to cook a steak
 - Why VS Code is my favourite IDE
-- Check out my [/uses/](https://virtuallycreative.ca/uses/) page for more...!
+- Check out my [/uses/](https://virtuallycreative.ca/uses/) page for what I use regularly
+- [Virtually(Hash)](https://hash.virtuallycreative.ca) for my publications
 
 ### 📫 How to reach me: ...
 
@@ -49,7 +50,7 @@ The fastest way is via Facebook Messenger through my website, or Twitter DMs.
 
 ### ⚡ Fun fact: ...
 
-- Once had my cat (Allegretto) wake me up @ 5am using chili-flakes in my bed. It was a spicy morning.
+- Once had my cat (Allegretto) wake me up @ 5am by exploding a bag chili-flakes in my bed. It was a spicy morning.
 
 <!--
 **vip3rousmango/vip3rousmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
