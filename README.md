@@ -15,12 +15,11 @@ I'm Al. I'm a self-taught web developer with a nack for learning new things and 
 
 ### 🌱 I’m currently learning ...
 
-- Azure 
-- Web Components / Lit
 - SUN-Stack (Svelte/Userbase/Netlify)
-- CSS /w Open-Props
-- Strapi
+- Lua
 - Node.js CLI
+- Accessibility Management
+- JIRA's JQL
 
 ### 👯 I’m looking to collaborate on ...
 
